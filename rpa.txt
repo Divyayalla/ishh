@@ -1,0 +1,321 @@
+Let us look at few scenarios to understand the need for RPA
+
+Scenario 1:
+Cathey is a BPO executive, who handles process operations in order management process.    
+
+        
+
+ 
+
+As part of daily activity, she performs the following tasks :
+
+Login to the system and navigate to the folder containing purchase orders (PO).
+Open each purchase order (PDF document) in the folder for the current date.
+Copy the PO details from each pdf and consolidate in an excel.
+Send the excel for verification and approval from approving authority.                                     
+Login to the Order Management System and log the excel data into web-based forms to trigger next steps in business process.
+James is a Bank executive, who handles credit card portfolio.
+
+        
+
+ 
+
+As part of daily activity, he performs the following tasks:
+
+Login to the banking system and check for the credit card requests logged in by customers through ATM, email, online, mobile banking platforms.
+Initiate a credit card application and gather required documents from the individuals.
+Make the necessary credit checks, background checks, and decide if the individual is eligible for a credit card based on the details provided.
+Based on the eligibility, issue and dispatch the new credit card.
+
+Scenario 5:
+Emily is a writer who publishes her articles into various social groups every day.
+
+
+
+ 
+
+As part of daily activity, she performs the following tasks :
+
+Log into various social groups at a specific time every day.   
+Write the headline and content of the article.
+Publish the article.
+This everyday task turns out to be tiresome and costs her a lot. What if she can configure a computer software or robot to interpret the human actions and imitate them. These robots will publish the articles on behalf of her every day on the stipulated time with reduced cost and time. Wouldn't they?
+
+ 
+
+
+
+ 
+
+Automation is a technique of making the process operate automatically without human intervention.
+To tackle the problems faced in our scenarios, automation is achieved using computer coded Softwares called Robots, which enables automation of repetitive rule-based processes to minimize human interaction in various Back office and front-end applications.
+ ----------------
+Reference: https://www.polarismarketresearch.com/industry-analysis/robotic-process-automation-market
+--------
+RPA stands for Robotic Process Automation
+The process of automating business operations with the help of software robots in order to reduce human intervention is called RPA. It refers to those process automations a where computer software drives the existing enterprise application software in the same way that a user does.
+
+Let's understand what each term means.
+
+Robotic:
+An entity which is capable of being programmed by a computer for doing complex tasks is knows as a robot. In terms of RPA, this task would be to mimic human actions.
+
+Process:
+ A sequence of steps that lead to a meaningful activity or task is known as a process.
+
+Automation:
+A task when performed automatically, without human intervention, it is called automation.
+--------------
+Let's see more about the key features of RPA in detail.
+
+RPA is Non-Invasive unlike traditional IT automation
+
+RPA does not involve direct integration coding with software systems . No changes required in exiting applications or infrastructure. RPA operates on the presentation layer.
+Built for Complexity and made for Enterprise
+
+RPA is not just meant for automating a single business process on a single software tool in a single computer. It can be scaled across software applications and distributed across multiple systems for complex process flows in an Enterprise. 
+Easy Integration with disparate systems
+
+RPA provides easy integration with any systems including legacy systems, Cloud and web applications, ERP systems, thin clients like Citrix etc.
+Quick Implementations
+
+RPA platforms provides capabilities where we can have our automation solutions implemented and executed in couple of week time frame.
+------------------------------
+There are two types of RPA , namely - Attended automation and Unattended automation.
+
+What is Attended Automation ? 
+Attended automation is where the robots share workspace with human users as they work on same computer as human user, but they work only when triggered. This type of automation is useful when input is required from human user. Human and robot collaborate to smooth all the processes relieving humans off the burden of repetitive tasks.
+The advantages of using assisted automation is that complex processes can be replaced with single mouse clicks, reducing the time it takes in training an agent. The average handling time of a process can be reduced, resulting in savings and improved customer experience.
+ 
+
+The only drawback of this automation is that the inconsistency of desktop environment can slow down completion times.
+What is Unattended Automation?
+Unattended automation is where the robots work without any human supervision, by automating processes in virtual or remote environments using instructions given to them.
+Unattended robots can operate 24X7 through queues of cases, only alerting an employee when something goes wrong. There is no limit to the number of robots that can run on a single sever. We can automate any number of processes. Or in other words, we can have as many number of robots to run as many number of processes as you want.
+
+The only significant drawback of unassisted automation is that it needs structured digital information and clearly defined rules to minimize human intervention.
+-----------------------
+Robotic process automation platforms broadly comprise of three fundamental components: 
+
+
+
+Developer Tools
+
+Developer Tools called as Studio, are used to model the process to be automated. Developer Tools normally include feature recorders, drag-and-drop functionality, and simple configuration wizards to model the processes.
+
+Robot controller
+
+Central tool used for deployment, monitoring and management of robots across the landscape. Controller serves as a master repository for modelled processes. It facilitates version control, role management, authorization, and authentication.
+
+Controller is responsible for assigning jobs to single or grouped robots and monitoring and reporting their actions.
+
+Software robots
+
+Software Robots executes the defined jobs for automating process.
+
+ --------------------------
+RPA in Human Resources
+
+Resume screening and candidate shortlisting
+
+Nowadays employees have reduced time in investing in going through candidates resumes and application forms received for open positions. Software robots can easily gather all the files and compare the information with the list of job requirements.
+
+These requirements can be viewed as predefined rules/requirements which guide the selection procedure. The best candidates will then be notified and called for interviews, while those who do not meet the requirement can be sent rejection notifications.
+
+ 
+
+RPA in Banking
+
+Customer onboarding
+
+Customer onboarding in banks is a long, drawn-out process, primarily due to several documents requiring manual verification. RPA can make the process much easier by capturing the data from the KYC documents using the Optical Character Recognition technique (OCR). This data can be matched against the information provided by customer in the form.
+
+If there are no discrepancies post the automated matching, the data is automatically entered into the customer management portal. RPA automation in customer onboarding not only helps in avoiding manual errors but, also saves a lot of time and effort by the employees.
+
+ 
+
+RPA in Healthcare
+
+Claims Administration 
+
+One of the most time-consuming tasks that healthcare administrators have to deal is with spent handling claims.This includes inputting and processing claims, as well as adjusting them and dealing with appeals. With machines equipped with RPA, your organization can be at the forefront of the digitization movement in claims management. While the technology is still in its early stages in this front, it has great potential moving forward to revolutionize the way the healthcare industry operates.
+RPA in Supply Chain Management
+
+Inventory Management
+
+RPA can help continuously monitor inventory, notifying you when levels are low. And when new shipments need to be ordered, RPA can perform the job function of an employee by ordering new shipments at the right time.
+
+RPA also helps with tracking inventory as it flows throughout the warehouse. Manually tracking thousands of items as they move across service areas is time-consuming and prone to error. RPA can automate this process, deploying software robots to track inventory as it flows from receiving to shelves to production to shipping. RPA makes inventory management easier by tracking inventory from the time it enters and exits the warehouse.
+
+ 
+
+RPA in Customer Service 
+
+AI Contact Centre
+
+RPA does data entry, generating invoices, processing payments, automated email communication, applying static business rules, downloading, searching, and sorting data, processing forms and screen scraping to replicate processing of tasks.
+
+RPA can be integrated to equip your chatbot to fulfill customer service requests instantly and become more transactional.
+
+RPA can also be used to manage your sign-in process by allowing RPA to access encrypted credentials securely.
+
+ 
+
+RPA in IT Service
+
+Password resets
+
+Requests for password resets are repeatable, have a typical and consistent structure, and few exceptions.
+
+Consequently, the process is a prime candidate for automation required to provide software robots with specific templates (request, acknowledgment, etc.), and with access to the IT Service Management (ITSM) tool for active directory activities.
+
+The next step is to set apart urgent from non-urgent requests and allow bots to deal with the latter category.By logging into the Citrix app, bots can simply change the password, send the new one to the user, and change the request status to “solved”.
+-----------------
+Now, let us learn about the criteria for identifying the processes that can be automated using RPA:
+
+ 
+
+Rule-based
+
+RPA is best suited for automating tasks that are highly definable and occur the same way every time since the error occurrence rate is usually very low in these cases.
+ 
+
+Repetitive process
+
+Processes that occur in high frequency like daily or weekly and that also involve a lot of manual intervention are called repetitive processes and they are good candidates for automation.
+ 
+
+Standard input
+
+The input in the process should either be electronic and easily readable or should be readable using a technology that can be associated with RPA (such as OCR). For example, inputs present in Excel, Word, Email, XML, readable PDFs etc., 
+
+ 
+
+Stable
+
+Processes that have been the same for a certain period of time and no changes are expected within the next months are good candidates for automation. The operational costs involved in such stable processes are also known already. 
+
+ 
+
+High volume process
+
+Processes that involve high transaction volumes are preferred for automation. For example, mobile sim card registration applications, online order processing etc.
+
+Software robots can work 24/7/365. Hence, they can tackle activities quickly and accurately.
+
+ -------------------
+The best practices to be followed while designing and developing an RPA project are:
+
+1.  Analyzing the process thoroughly, identifying the requirements and planning how the solution should look like before starting the actual development.
+
+2.  Breaking the process into smaller workflows for a better understanding of the code, for independent testing and reusability.
+
+3.  Keeping a consistent naming convention across the project.
+
+4.  Handling sensitive data responsibly.
+
+5.  Using error handling mechanisms to predict and handle exceptions occurring in the workflow
+
+6.  Adding comments to your workflows to clarify the purpose of each workflow.
+-------------------------
+Costs involved in an RPA project are as below:
+
+Implementation cost
+Support & Maintenance cost
+Infrastructure cost & the RPA environment cost
+Implementation cost
+
+The cost involved in developing the bot in terms of hiring the resources with the right skill set.
+The cost involved in training the resources required for implementing the project.
+Support & Maintenance cost
+
+The cost involved in maintaining the server or machine after the project deployment.
+The cost involved in the enhancements of the project in terms of client requirements.
+The cost involved in monitoring and reporting the performance of the bots.
+Infrastructure cost & the RPA environment cost
+
+The cost involved in the License and in AMC to procure the necessary RPA tools.
+The cost involved in setting up the infrastructure for the RPA tool like OS, Associated softwares etc.
+------------------------------
+Benefits of RPA:
+
+The benefits of RPA can be understood in the below 2 aspects.
+
+Tangible benefits
+Non – tangible benefits
+The Tangible Benefits are :
+
+Reduction in FTE (Full time equivalent/employee) cost
+Reduction in operating costs
+Reduction in rework costs, if any, which might possibly occur due to human errors.
+Reduced human contact with sensible data
+The Non - Tangible Benefits are :
+
+Reduction in business risk
+Scope for upstream or downstream improvements
+Increased customer satisfaction
+Increased employee morale as employees are free from doing repetitive tasks
+
+ ---------------------
+The concept of Process automation started with automation of basic tasks and early manifestation of automation involved creating macros to automate repetitive tasks.
+
+Today, process automation has gone beyond single system macros to enterprise grade Robotic process automation. And has evolved into Cognitive RPA and into Hyperautomation.
+
+Let us understand Cognitive RPA and Hyperautomation in the upcoming resources.
+
+------------------------------------------
+Cognitive RPA:
+Cognitive RPA is a term that refers to RPA tools and solutions that leverage Artificial Intelligence (AI) technologies such as Optical Character Recognition (OCR), Text Analytics and Machine Learning to improve the experience of your workforce and customers.
+This highly advanced form of RPA has learning, reasoning and self-correction capabilities. 
+The power of cognitive RPA comes from its ability to process unstructured data, such as documents and emails, to drive higher levels of automation.
+ 
+
+Here are few of the milestones achieved by Cognitive RPA :
+
+Optical Character Recognition (OCR) and image identification
+
+Extracting intent and entities
+
+Text analytics
+
+Sentiment analysis
+
+Categorization
+
+Classification
+
+Voice recognition
+-----------------------------
+Let us look at a business scenario to understand where and how Cognitive RPA can be used.
+
+Business Scenario:
+Consider the example of a banking chatbot that automates most of the process of opening a new bank account. Your customer could ask the chatbot for an online form, fill it out and upload the KYC documents. The form could be submitted to a robot for initial processing, such as running a credit score check and for extracting data from the customer’s driver’s license or ID card using OCR techniques.
+
+
+
+ 
+
+ 
+
+Outcomes:
+The RPA bots retrieve and manipulate data from multiple legacy systems in a complex banking application very quickly. Thus, resulting in faster response time for customer queries.
+Since, RPA bots use OCR techniques and NLP capabilities, they can retrieve, understand, and validate customer data. Thus, saving a lot of time and reducing huge manual intervention. 
+------------------
+What is Hyperautomation ?
+Hyperautomation is a technology that amplifies the ability for automation by combining the capabilities of several components of process automation and various integration tools and technologies together.
+
+The core of hyperautomation is RPA and it expands the automation capability with AI, process mining, analytics, and other advanced tools.
+
+Hyperautomation provides a high-speed route for engaging everyone in transforming the business using automation as it supports the automation of complex work that relies on knowledge inputs from people.
+
+ 
+
+Wondering how the automation of numerous complex processes is possible using hyperautomation?  
+
+Well, it is because of its ability to do the following:
+
+It can connect to various business applications.
+It can operate with both structured and unstructured data.
+It can analyze data and make decisions.
+It can discover processes and find new automation opportunities.                          
+ -------------------------
